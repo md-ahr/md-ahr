@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abdul Halim</h1>
 
-Front-end Web Developer | Learner
+<h3>Front-end Web Developer | Learner</h3>
 
 - 🔭 I’m currently working on **Front-end Development**
 
