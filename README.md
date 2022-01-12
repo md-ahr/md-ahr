@@ -2,8 +2,6 @@
 
 Front-end Web Developer | Learner
 
-?></h3>
-
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **React JS**
