@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Abdul Halim</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h1>Hi, I'm Abdul Halim</h1>
 
 Front-end Web Developer | Learner
 
