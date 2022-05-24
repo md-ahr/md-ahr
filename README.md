@@ -2,17 +2,19 @@
 
 <h3>Front-end Web Developer | Learner</h3>
 
-- 🔭 I’m currently working on **Front-end Development**
+- 🔭 I’m currently working on [rokomari.com](https://rokomari.com)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Core JavaScript, React JS, MERN Stack**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **any open source projects**
 
-- 💬 Ask me about **Anything**
+- 👨‍💻 All of my projects are available at [https://iamhalim.com](https://iamhalim.com)
+
+- 💬 Ask me about **JavaScript, React JS, MERN Stack**
 
 - 📫 How to reach me **ahr.web.pro@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- ⚡ Fun fact **I don't drink much coffee**
 
 ### Connect with me:
 
