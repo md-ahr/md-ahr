@@ -42,33 +42,24 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=md-ahr.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-</p>
+## 🛠 Languages & Tools
+
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/javascript%20(2).png" alt="javascript (2).png" width="30" data-align="inline" /> 
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/typescript.png" alt="typescript.png" width="30"data-align="inline"/> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/php.png" title="" alt="php.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/python.png" title="" alt="python.png" width="30" /> 
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/kotlin.png" alt="kotlin.png" width="30" /> 
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/react.png" alt="react.png" data-align="inline" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/redux.png" title="" alt="redux.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/sass.png" title="" alt="sass.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/express.png" title="" alt="express.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/firebase.png" title="" alt="firebase.png" width="30" />
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/android.png" title="" alt="android.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/git.png" title="" alt="git.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/figma.png" title="" alt="figma.png" width="30" /> 
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/photoshop%20(1).png" title="" alt="photoshop (1).png" width="30" /> 
+<img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/illustrator.png" alt="illustrator.png" width="30" />
+<img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/xd.png" title="" alt="xd.png" width="30" /></div>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-ahr&show_icons=true&locale=en&layout=compact" alt="Abdul Halim" /></p>
 
