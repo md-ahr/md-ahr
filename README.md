@@ -42,6 +42,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=md-ahr.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
+<div>
+
 ## 🛠 Languages & Tools
 
 <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/javascript%20(2).png" alt="javascript (2).png" width="30" data-align="inline" /> 
@@ -60,6 +62,22 @@
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/photoshop%20(1).png" title="" alt="photoshop (1).png" width="30" /> 
 <img title="" src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/illustrator.png" alt="illustrator.png" width="30" />
 <img src="https://raw.githubusercontent.com/saadh393/saadh393/main/images/xd.png" title="" alt="xd.png" width="30" /></div>
+
+<table border="0">
+  <tr>
+    <td>
+
+[![Saad Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@saadh393&layout=compact)](#)
+
+  </td>
+
+  <td>
+    <a href="https://app.daily.dev/saadh393"><img src="https://api.daily.dev/devcards/52a2884137c14895ae917896eb442c6d.png?r=yxj" width="400" alt="Saad Hasan's Dev Card"/></a>
+  </td>
+
+  </tr>
+</table>
+<br/>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-ahr&show_icons=true&locale=en&layout=compact" alt="Abdul Halim" /></p>
 
