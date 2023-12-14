@@ -2,7 +2,7 @@
 
 <h3>Front-end Web Developer | Learner</h3>
 
-- 🔭 I’m currently working on [rokomari.com](https://rokomari.com)
+- 🔭 I’m currently working on [Devxhub](https://devxhub.com)
 
 - 🌱 I’m currently learning **Core JavaScript, React JS, MERN Stack**
 
