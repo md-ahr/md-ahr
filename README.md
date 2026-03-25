@@ -7,10 +7,9 @@ Transforming Ideas into Interactive Interfaces
 Frontend developer passionate about crafting seamless web experiences using JavaScript, Typescript, React, and Next.js. Building scalable, intuitive, high-performance applications, one line of clean code at a time.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Portfolio](http://main.do5cccnwd5c33.amplifyapp.com)
+* 🖥️  See my portfolio at [Portfolio](https://ahr-portfolio.vercel.app/)
 * ✉️  You can contact me at [ahr.web.pro@gmail.com](mailto:ahr.web.pro@gmail.com)
-* 🚀  I'm currently working on [Devxhub](http://devxhub.com)
-* 🤝  I'm open to collaborating on any open source projects
+* 🤝  I'm open to a job or collaborating on any open source projects
 
 <a href="https://www.github.com/md-ahr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/md-ahr?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
