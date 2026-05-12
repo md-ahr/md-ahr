@@ -99,16 +99,16 @@
 
 ---
 
-### 🔐 Express Better Auth
-> A production-ready REST API template with Express.js, TypeScript, and Drizzle ORM.
+### 🔐 Nest.js Auth System
+> A production-ready REST API authentication template with Nest.js, TypeScript, and Drizzle ORM.
 
 | Layer | Technologies |
 | --- | --- |
-| Backend | Express.js, TypeScript |
+| Backend | Nest.js, TypeScript |
 | Database | PostgreSQL, Drizzle ORM |
-| Auth | Better Auth |
+| Role-Based Auth System |
 
-🔗 [Repo](https://github.com/md-ahr/express_better_auth)
+🔗 [Repo](https://github.com/md-ahr/nestjs-auth)
 
 ---
 
