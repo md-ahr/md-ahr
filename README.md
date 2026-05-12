@@ -106,7 +106,6 @@
 | --- | --- |
 | Backend | Nest.js, TypeScript |
 | Database | PostgreSQL, Drizzle ORM |
-| Role-Based Auth System |
 
 🔗 [Repo](https://github.com/md-ahr/nestjs-auth)
 
